@@ -1,6 +1,6 @@
 # IBM_Internship
 Dataset Information:
-The dataset used in this analysis is named your_dataset.csv. It contains information about sales, profits, and other relevant metrics for various orders. The dataset includes the following columns:
+The dataset used in this analysis is named SampleSuperstore.csv. It contains information about sales, profits, and other relevant metrics for various orders. The dataset includes the following columns:
 
 Row ID: A unique identifier for each row in the dataset. Order ID: The identifier for each order. Order Date: The date the order was placed. Ship Date: The date the order was shipped. Ship Mode: The shipping mode for the order. Customer ID: The identifier for each customer. Customer Name: The name of the customer. Segment: The customer segment (e.g., Consumer, Corporate, Home Office). Country: The country where the order was placed. City: The city where the order was placed. State: The state where the order was placed. Postal Code: The postal code of the location where the order was placed. Region: The region of the country where the order was placed. Product ID: The identifier for each product. Category: The category of the product (e.g., Furniture, Office Supplies, Technology). Sub-Category: The sub-category of the product. Product Name: The name of the product. Sales: The sales amount for the order. Quantity: The quantity of products in the order. Discount: The discount applied to the order. Profit: The profit amount for the order.
 
