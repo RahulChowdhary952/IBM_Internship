@@ -8,7 +8,7 @@ Jupyter Notebook File
 The main analysis is performed in the Jupyter Notebook file named IBM_PROJECT(1).ipynb. In this notebook, we conduct basic data exploration, data preprocessing (if required), and generate various visualizations to gain insights into the dataset. The code includes visualizations using Seaborn and Plotly libraries to display sales and profit trends, distribution of sales and profit, and correlations among numerical variables.
 
 PowerPoint Presentation
-The PowerPoint presentation file named Data Analysis On Super Store Data.pptx is also available in this repository. The presentation provides a summary of the analysis performed on the dataset. It includes key visualizations and findings related to sales, profits, regional trends, and other relevant insights.
+The PowerPoint presentation file named Data Analysis Super Store Data.pptx is also available in this repository. The presentation provides a summary of the analysis performed on the dataset. It includes key visualizations and findings related to sales, profits, regional trends, and other relevant insights.
 
 Additional Information Please feel free to explore the Jupyter Notebook file for detailed code and visualizations. The presentation offers a concise overview of the analysis and its results. If you have any questions or feedback, don't hesitate to contact us.
 
